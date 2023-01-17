@@ -1,4 +1,4 @@
 # CS32-Projects
-Class Projects
+Class Project: Rabbit Game
 
-Rabbit game where you must escape from killer rabbits. You can kill them by dropping poisonous carrots and move around using stated keys.
+You must escape from killer rabbits. You can kill them by dropping poisonous carrots and move around using stated keys.
